@@ -1,2 +1,2 @@
 # algoritmos_no_supervisado
-Incluye algoritmos de machine learning, aprendizaje no supervisado
+Algoritmos de machine learning programados manualmente
